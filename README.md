@@ -1,5 +1,7 @@
 Absolutely! Below is a template for a README file that you can use for your Calorie Calculator for Fruits project:
 
+![image](https://github.com/asasemahmed/fruits-calories/assets/94972604/6afa83bd-8a30-4c4d-accf-94ea25a3a064)
+
 ---
 
 # Calorie Calculator for Fruits using YOLOv8 Algorithm
