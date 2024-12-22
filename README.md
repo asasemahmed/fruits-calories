@@ -45,5 +45,3 @@ Special thanks to the YOLOv8 team and the Tkinter community for their incredible
 
 
 ---
-
-Feel free to customize the README to include specific details about your project, installation instructions, and any other information you find relevant. Good luck with your project!
